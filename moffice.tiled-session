@@ -49,10 +49,10 @@
         },
         "main_office.tmx": {
             "scale": 0.75,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 708,
-                "y": 900
+                "y": 246.66666666666663
             }
         },
         "map.json": {
