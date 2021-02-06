@@ -82,9 +82,11 @@
             "scaleInEditor": 1
         }
     },
+    "last.exportedFilePath": "C:/Users/richter/Documents/GitHub/adventure-moffice",
     "last.imagePath": "C:/Users/richter/Documents/GitHub/adventure-moffice",
     "map.fixedSize": true,
     "map.height": 15,
+    "map.lastUsedExportFilter": "JSON-Kartendateien (*.json)",
     "map.lastUsedFormat": "tmx",
     "map.width": 15,
     "openFiles": [
