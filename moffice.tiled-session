@@ -9,6 +9,9 @@
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
         "C:/Software/tiledmap/examples/ecom/floor_base/floor_base_north_west_wing.json": {
             "scale": 0.7137907608695652,
             "selectedLayer": 1,
