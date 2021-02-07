@@ -79,10 +79,10 @@
         },
         "map.json": {
             "scale": 0.7980698529411765,
-            "selectedLayer": 4,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 809.4529540481401,
-                "y": 934.755268916273
+                "x": 434.7990325924219,
+                "y": 735.5245882759415
             }
         },
         "map.json#floortileset": {
@@ -119,12 +119,12 @@
     ],
     "project": "moffice.tiled-project",
     "recentFiles": [
+        "map.json",
         "C:/Software/tiledmap/examples/ecom/floor_base/floor_base_north_west_wing.json",
         "office.tsx",
         "Floor.tsx",
         "main_office.tmx",
         "moffice.tmx",
-        "map.json",
         "C:/Users/richter/unbenannt.tmx",
         "C:/Users/richter/moffice.tmx",
         "C:/Users/richter/z.tsx"
