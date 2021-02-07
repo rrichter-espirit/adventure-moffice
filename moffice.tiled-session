@@ -99,6 +99,9 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "map.json#More": {
+            "scaleInEditor": 1
+        },
         "map.json#Office": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -136,7 +139,7 @@
         "C:/Software/tiledmap/examples/ecom/floor_base/floor_base_north_west_wing.json"
     ],
     "project": "moffice.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "Sofas.tsx",
         "office.tsx",
@@ -150,5 +153,6 @@
         "C:/Users/richter/moffice.tmx",
         "C:/Users/richter/z.tsx"
     ],
+    "tileset.embedInMap": true,
     "tileset.lastUsedFormat": "tsx"
 }
