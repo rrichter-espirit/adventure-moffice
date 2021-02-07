@@ -69,6 +69,10 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Sofas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "main_office.tmx": {
             "scale": 0.75,
             "selectedLayer": 3,
@@ -134,6 +138,7 @@
     "project": "moffice.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Sofas.tsx",
         "office.tsx",
         "Floor.tsx",
         "main_office.tmx",
