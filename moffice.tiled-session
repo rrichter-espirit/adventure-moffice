@@ -92,7 +92,8 @@
             }
         },
         "map.json#Floor": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "map.json#Office": {
             "scaleInDock": 1,
