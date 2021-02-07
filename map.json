@@ -88,12 +88,30 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":8,
          "firstgid":1,
-         "source":"office.tsx"
+         "image":"floortileset.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"Office",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":65,
-         "source":"Floor.tsx"
+         "image":"tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Floor",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
