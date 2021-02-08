@@ -142,7 +142,7 @@
         "C:/Software/tiledmap/examples/ecom/floor_base/floor_base_north_west_wing.json"
     ],
     "project": "moffice.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "Sofas.tsx",
         "office.tsx",
