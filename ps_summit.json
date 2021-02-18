@@ -19,7 +19,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"dancefloor.mp3"
+                 "value":".\/dancefloor.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
