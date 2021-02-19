@@ -3,7 +3,7 @@
     {
      "export":
         {
-         "target":"..\/..\/Downloads\/map---moffice-master@5d64579ad2a"
+         "target":"."
         }
     },
  "height":47,
@@ -136,7 +136,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/Downloads\/map---moffice-master@5d64579ad2a\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -168,7 +168,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/..\/Downloads\/map---moffice-master@5d64579ad2a\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -488,7 +488,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/..\/Downloads\/map---moffice-master@5d64579ad2a\/sofas_tileset.png",
+         "image":"sofas_tileset.png",
          "imageheight":352,
          "imagewidth":256,
          "margin":0,
@@ -501,7 +501,7 @@
         {
          "columns":16,
          "firstgid":409,
-         "image":"..\/..\/Downloads\/map---moffice-master@5d64579ad2a\/more_tiles.png",
+         "image":"more_tiles.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -560,7 +560,7 @@
         {
          "columns":16,
          "firstgid":665,
-         "image":"..\/..\/Downloads\/map---moffice-master@5d64579ad2a\/bathroom_tileset.png",
+         "image":"bathroom_tileset.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -573,7 +573,7 @@
         {
          "columns":16,
          "firstgid":921,
-         "image":"..\/..\/Downloads\/map---moffice-master@5d64579ad2a\/tables.png",
+         "image":"tables.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -596,7 +596,7 @@
         {
          "columns":16,
          "firstgid":1177,
-         "image":"..\/..\/Downloads\/map---moffice-master@5d64579ad2a\/bev.png",
+         "image":"bev.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
