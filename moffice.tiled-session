@@ -1,0 +1,164 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "main_office.tmx",
+    "expandedProjectPaths": [
+        "maps"
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "C:/Software/tiledmap/examples/ecom/floor_base/floor_base_north_west_wing.json": {
+            "scale": 0.7137907608695652,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 735.5096602265157,
+                "y": 353.0446369087275
+            }
+        },
+        "C:/Software/tiledmap/examples/ecom/floor_base/floor_base_north_west_wing.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Software/tiledmap/examples/ecom/floor_base/floor_base_north_west_wing.json#office_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/richter/Documents/GitHub/moffice/map.json": {
+            "scale": 0.7137907608695652,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 732.707718663748,
+                "y": 543.5766631769297
+            }
+        },
+        "C:/Users/richter/Documents/GitHub/moffice/map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/richter/Documents/GitHub/moffice/map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/richter/Documents/GitHub/moffice/moffice.json": {
+            "scale": 0.7980698529411765,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 969.8399170793505,
+                "y": 736.7776114246228
+            }
+        },
+        "C:/Users/richter/moffice.tmx": {
+            "scale": 0.12227722772277227,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1586.558704453441,
+                "y": 1598.825910931174
+            }
+        },
+        "C:/Users/richter/unbenannt.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -16,
+                "y": 17
+            }
+        },
+        "C:/Users/richter/z.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Sofas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main_office.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 706.6666666666666,
+                "y": 245.33333333333331
+            }
+        },
+        "main_office.tmx#Floor": {
+            "scaleInDock": 1
+        },
+        "main_office.tmx#Office": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 0.7980698529411765,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 432.2929862950592,
+                "y": 733.0185419785788
+            }
+        },
+        "map.json#Floor": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json#More": {
+            "scaleInEditor": 1
+        },
+        "map.json#Office": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json#Tables": {
+            "scaleInEditor": 1
+        },
+        "map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "moffice.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -15.5,
+                "y": 15
+            }
+        },
+        "office.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/richter/Documents/GitHub/adventure-moffice",
+    "last.imagePath": "C:/Users/richter/Documents/GitHub/adventure-moffice",
+    "map.fixedSize": true,
+    "map.height": 15,
+    "map.lastUsedExportFilter": "JSON-Kartendateien (*.json)",
+    "map.lastUsedFormat": "json",
+    "map.width": 15,
+    "openFiles": [
+        "office.tsx",
+        "Floor.tsx",
+        "main_office.tmx",
+        "C:/Software/tiledmap/examples/ecom/floor_base/floor_base_north_west_wing.json"
+    ],
+    "project": "moffice.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Sofas.tsx",
+        "office.tsx",
+        "Floor.tsx",
+        "main_office.tmx",
+        "map.json",
+        "C:/Users/richter/Documents/GitHub/moffice/map.json",
+        "C:/Software/tiledmap/examples/ecom/floor_base/floor_base_north_west_wing.json",
+        "moffice.tmx",
+        "C:/Users/richter/unbenannt.tmx",
+        "C:/Users/richter/moffice.tmx",
+        "C:/Users/richter/z.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx"
+}
