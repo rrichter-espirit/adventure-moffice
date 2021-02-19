@@ -130,7 +130,7 @@
  "nextobjectid":15,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2021.02.15",
+ "tiledversion":"2021.01.13",
  "tileheight":32,
  "tilesets":[
         {
@@ -605,13 +605,9 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":1433,
-         "source":"..\/..\/Downloads\/map---moffice-master@5d64579ad2a\/office.tsx"
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":1.4,
  "width":47
 }
