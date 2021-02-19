@@ -31,6 +31,12 @@
          "offsetx":1.75128085700999,
          "offsety":-5.6843418860808e-14,
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsyRoom",
+                 "type":"string",
+                 "value":"mucoffice_meet"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":47,
@@ -130,7 +136,7 @@
  "nextobjectid":15,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2021.01.13",
+ "tiledversion":"2021.02.15",
  "tileheight":32,
  "tilesets":[
         {
